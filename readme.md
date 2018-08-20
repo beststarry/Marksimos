@@ -87,7 +87,7 @@ Or, if you don't want/need launchctl, you can just run:
 *   更换gem sources并安装compass
 ```
  gem sources --remove https://rubygems.org/
- gem sources -a http://ruby.taobao.org/
+ gem sources -a http://gems.ruby-china.org/
  gem sources -l
 
  gem install compass
